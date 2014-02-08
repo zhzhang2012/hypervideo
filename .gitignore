@@ -1,0 +1,7 @@
+.DS_Store
+
+*.mdb
+*.sln
+*.config
+
+node_modules/
